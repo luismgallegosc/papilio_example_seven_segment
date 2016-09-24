@@ -1,6 +1,6 @@
 # Papilio One seven segment display example
 
-Example project using a Papilio One board.
+Example project using a [Papilio One](http://papilio.cc/index.php?n=Papilio.PapilioOne) board.
 
 The board takes 4 inputs, and has 8 outputs connected to a seven segment display.
 The display shows the hexadecimal value of the 4 inputs.
