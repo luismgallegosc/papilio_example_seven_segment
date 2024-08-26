@@ -39,6 +39,6 @@ Where the routing of outputs to the seven segment display is as follows.
 | out[6]  |     g     |
 | out[7]  |     h     |
 
-A short video showing the project running can be found [here](https://www.youtube.com/watch?v=vrqvd3HTAaQ "Papilio One seven segment example")
+A short video showing the project running can be found [here](https://www.youtube.com/watch?v=vrqvd3HTAaQ "Papilio One seven segment example").
 
 [![Papilio One seven segment example](http://img.youtube.com/vi/vrqvd3HTAaQ/0.jpg)](https://www.youtube.com/watch?v=vrqvd3HTAaQ)
